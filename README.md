@@ -1,16 +1,8 @@
-# book_library
+<h1>Book Library</h3>
+<h3>Application displaying a book library with its details</h3>
+<b>Screenshot 1</b>
+<img src = 'https://user-images.githubusercontent.com/78100508/130852747-60f3e44b-cafa-4885-af6a-f3e9c643c222.PNG'>
+<img src = 'https://user-images.githubusercontent.com/78100508/130852864-744433c1-b5ca-42d0-8a54-ec9f1411a563.PNG'>
+Note: Some new files are being added
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
